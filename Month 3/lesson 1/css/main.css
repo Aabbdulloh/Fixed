@@ -1,0 +1,24 @@
+body{
+    height: 100000px;
+}
+.cards{
+    background-color: #0461b8;
+    color: #fff;
+    border: 2px solid #FFF;
+    padding: 50px 20px;
+}
+.two{
+    margin-top:100px;
+}
+.box{
+    background-color: #0461b8;
+    color: #fff;
+    border: 2px solid #FFF;
+    padding: 90px 50px;
+}
+.boxing p{
+    padding-top: 200px ;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+}
