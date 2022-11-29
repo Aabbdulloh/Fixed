@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2/Github/Hotcofe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2/Github/zomentum" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2/Imtihon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2/Lesson 11/sass/blocks/zomentum" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Month 2/Lesson 11/zomentum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Month 3/bilol/myBlog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Month 3/myBlog" vcs="Git" />
   </component>
 </project>

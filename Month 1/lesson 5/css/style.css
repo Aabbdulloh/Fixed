@@ -1,0 +1,40 @@
+
+.h_1{
+    text-align: center;
+}
+.h_2{
+    text-align: center;
+}
+.head_p{
+    text-align: center;
+    color:black;
+    opacity: 0.5;
+    
+}
+li{
+    border: 3px solid rgb(6, 191, 247);
+    border-radius: 30px;
+}
+img{
+    width: 70px;
+}
+li{
+    display: inline-block;
+}
+.list2{
+    list-style: none;
+    display: inline-block;
+    bottom: 10px;
+}
+.list1{
+    list-style: none;
+    display: inline-block;
+    bottom: 10px;
+}
+input{
+    width: 600px;
+    padding: 20px;
+    background-color: #FFAF      
+}
+
+

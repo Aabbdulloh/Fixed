@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto ", sans-serif;
+    background-color: #E5E5E5;;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+.locus_nav{
+    align-items: center;
+}
+.nav_navbar{
+    justify-content: space-between;
+    display: flex;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.header_ul{
+    flex-grow: 1;
+    margin-left: 90px;
+    gap: 35px;
+    display: flex;
+    justify-content: end;
+    list-style: none;
+    align-items: center;
+    padding-right: 40px;
+    
+}
+.list-item{
+    padding: 10px;
+    border: 1px solid#E5E5E5;
+}
+.item_a:hover {
+    cursor: pointer;
+    border-radius: 15px;
+    animation: color 5s infinite;
+}
+@keyframes color {
+    0% { color: orange}
+    10% {color: purple}
+    20% {color: red}
+    30% {color: cadetblue}
+    40% {color: yellow}
+    50% {color: coral}
+    60% {color: green}
+    70% {color: cyan}
+    80% {color: deeppink}
+    90% {color: dodgerblue}
+    100% {color: orange}
+}
+.item_a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    color: #404242;
+}
+.logo_img{
+    gap: 10px;
+    align-items: center;
+    display: flex;
+    
+}
+.logo_img1{
+    display: block;
+    width: 37px;
+    height: 41px;
+}
+.logo_img2{
+    display: block;
+    height: 21px;
+    width: 105px;
+}
+.header_btn{
+    justify-content: flex-end;
+    border: 1px solid#58A9A5;
+    padding: 12px 22px;
+    width: 251px;
+    background: #58A9A5;
+    border-radius: 15px;
+}
+.header_btn a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+/* section 2*/
+.lets_go{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img/img1.png);
+    background-size: 720px;
+    background-repeat: no-repeat;
+    background-position:  right 80px top -89;
+}
+.info_h3{
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 105px;
+    color: #1C2323;
+}
+.info_p{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    color: #404242;
+}
+.info_btn{
+    width: 271px;
+    background: #58A9A5;
+    border-radius: 20px 20px 20px 0px;
+}
+
+
+

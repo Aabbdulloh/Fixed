@@ -16,14 +16,14 @@
 #             S3.append(i)
 # print(S3)
 
-S1 = "Abdulla Bekzod Xasan Ibrohim Shahzod Jaloliddin"
-s=[]
-d=[]
-k = S1.split()
-for i in k:
-    if i!=k:
-       s.append(len(i))
-    print(d)
+# S1 = "Abdulla Bekzod Xasan Ibrohim Shahzod Jaloliddin"
+# s=[]
+# d=[]
+# k = S1.split()
+# for i in k:
+#     if i!=k:
+#        s.append(len(i))
+#     print(d)
 
 
 

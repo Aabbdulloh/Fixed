@@ -1,0 +1,63 @@
+*{margin: 25px;}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.header__logo__link{
+    display: inline;
+}
+.header__menu{
+    display: inline;
+}
+.header__item{
+    display: inline;
+}
+.header__navlink{
+    position:relative;
+    left:45cm;
+    right: auto;
+    top: 0;
+    color: #1F1534;
+    opacity: 0.5;
+    font-size: 400%;
+    line-height: 550%;
+    font-style:initial;
+    font-weight: 200;
+    font-stretch: ultra-condensed;
+}
+.main{
+    font-size: 2cm;
+    position:relative;
+    left:0cm;
+    top: 15cm;
+}
+.main__logo__link{
+   display: inline; 
+    position:absolute;
+    left:45cm;
+    right: auto;
+    top: 0cm; 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
